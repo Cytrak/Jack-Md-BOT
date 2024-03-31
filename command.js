@@ -16,5 +16,5 @@ module.exports = {
     AddCommand:cmd,
     Function:cmd,
     Module:cmd,
-    commands,
+    commands,xxx
 };
